@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+ Thanks for downloading this template!
 
 Template Name: Multi
 Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
